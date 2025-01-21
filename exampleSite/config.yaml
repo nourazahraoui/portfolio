@@ -130,8 +130,7 @@ params:
     intro: "Hi, my name is"
     title: "Noura."
     subtitle: "I study computer science"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
+    content: "Passionate about Programing and Algorithms    image: /images/hero.svg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
